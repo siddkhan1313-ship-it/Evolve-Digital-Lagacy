@@ -1,0 +1,8 @@
+{
+  "name": "FutureBloomX (FBX)",
+  "description": "An advanced AI Website Builder Agent that transforms simple prompts into complete, ready-to-use website plans including structure, content, and design guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
